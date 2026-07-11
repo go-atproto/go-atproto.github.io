@@ -1,0 +1,3 @@
+repos:
+  - { name: "atproto", kind: "client", ci: true, desc: "Pure-Go read client for Bluesky / the AT Protocol over the XRPC HTTP API." }
+  - { name: "brand", kind: "brand", ci: false, desc: "Logos, icons and social images for go-atproto." }
